@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Alice",
+    "email": "alice@example.com",
+    "age": 25
+  },
+  {
+    "name": "Mushkan",
+    "email": "teste@example.com",
+    "age": 20
+  },
+  {
+    "name": "Charlie",
+    "email": "charlie@example.com",
+    "age": 22
+  },
+  {
+    "name": "Diana",
+    "email": "diana@example.com",
+    "age": 28
+  },
+  {
+    "name": "Evans",
+    "email": "evans@example.com",
+    "age": 35
+  },
+  {
+    "name": "Fiza",
+    "email": "fiza@example.com",
+    "age": 27
+  },
+  {
+    "name": "George",
+    "email": "george@example.com",
+    "age": 42
+  },
+  {
+    "name": "Hina",
+    "email": "hina@example.com",
+    "age": 24
+  },
+  {
+    "name": "Ishaan",
+    "email": "ishaan@example.com",
+    "age": 41
+  },
+  {
+    "name": "Jenny",
+    "email": "jenny@example.com",
+    "age": 29
+  }
+]

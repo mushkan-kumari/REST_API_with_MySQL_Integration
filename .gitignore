@@ -1,0 +1,31 @@
+# Node modules (do NOT push this, it's huge!)
+node_modules/
+
+# Environment variables (keep your secrets safe!)
+.env
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Optional IDE-specific
+.vscode/
+.idea/
+
+# Coverage reports
+coverage/
+
+# Build artifacts (if any)
+dist/
+build/
+
+# Temporary files
+*.tmp
+*.swp
