@@ -4,7 +4,9 @@ Connecting the REST API to MySQL database. Using the database to store and retri
 
 ## Starting server.js
 
-![Start server.js](https://github.com/mushkan-kumari/REST_API_with_MySQL_Integration/blob/1bd59cc7ea90df4f980d3275d2e220070bfb2609/screenshots/server_start.JPG)
+```
+npm start
+```
 
 # Postman Testing (CRUD OPERATIONS)
 
